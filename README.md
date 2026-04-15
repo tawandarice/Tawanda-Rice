@@ -11,10 +11,10 @@ Cybersecurity graduate focused on SOC analysis, digital forensics, and hands-on 
 Splunk, ELK, Wireshark, Nmap, Metasploit, Burp Suite, Autopsy, PowerShell, Bash, Linux, Windows
 
 ## Featured Projects
-- [SOC Alert Triage Lab](#)
-- [Digital Forensics Case Notes](#)
-- [Web App Testing with Burp Suite](#)
-- [Network Recon with Nmap](#)
+- SOC Alert Triage Lab
+- Digital Forensics Case Notes
+- Web App Testing with Burp Suite
+- Network Recon with Nmap
 
 ## Certifications
 - CompTIA Security+ (In Progress)
